@@ -1,0 +1,14 @@
+データベースの一覧取得
+show databases;
+
+現在のデータベースの取得
+select database();
+
+データベースの切り替え
+use データベース名;
+
+テーブル一覧
+show tables;
+
+テーブルの構造を見る
+DESC city;
