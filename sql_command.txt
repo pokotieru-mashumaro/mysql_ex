@@ -1,3 +1,11 @@
+docker関連
+Docker-Compose up -d
+docker exec -it mysql_ex-mysql-1 bash -p
+mysql -u root -p -h 127.0.0.1
+
+
+https://qiita.com/knife0125/items/bb095a85d1a5d3c8f706
+
 データベースの一覧取得
 show databases;
 
